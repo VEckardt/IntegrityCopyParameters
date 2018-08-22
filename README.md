@@ -19,5 +19,9 @@ Writing Field Values 'Parameters,Parameter Values' to Item '5593' ...
 Field Values 'Parameters,Parameter Values' written.
 ```
 
+# Possible Result
+
+![CopyParamsResult](doc/CopyParamsResult.PNG)
+
 # Tested with:
 - Integrity 11.0
