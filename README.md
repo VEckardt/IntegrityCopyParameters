@@ -2,7 +2,10 @@
 This utility allows you to copy parameters and parameter values from one item to another.
 
 # Hint
-This is a 0.1 version, so very simple, no validation, just the copy operation
+This is a 0.1 version, so very simple, no validation, just the copy operation.
+
+# Important
+This copy operation will overwrite all data at the target item!!!
 
 # How to Use
 
@@ -15,3 +18,6 @@ Reading Field Values 'Parameters,Parameter Values' from Item '101' ...
 Writing Field Values 'Parameters,Parameter Values' to Item '5593' ...
 Field Values 'Parameters,Parameter Values' written.
 ```
+
+# Tested with:
+- Integrity 11.0
