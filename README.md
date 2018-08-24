@@ -9,7 +9,7 @@ This copy operation will overwrite all data at the target item!!!
 
 # How to Install
 
-Copy the dist/IntegrityCopyParameters.jar into your own Integrity Client directory
+Copy the dist/IntegrityCopyParameters.jar into your own Integrity Client directory.
 If you can not copy to the Integrity Client directory because of Windows Admin restrictions, create a new directory somewhere else and add a sub directory "lib" where you place a copy from mksapi.jar.   
 
 # How to Use
